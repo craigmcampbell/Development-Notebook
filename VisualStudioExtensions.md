@@ -7,6 +7,6 @@
 - GitHub Extensions for Visual Studio
 - JetBrains ReSharper Ultimate
 - Markdown Editor
-- Microsoft Library Manager
 - Open Command Line
-- Vue.js Pack 2017
+- Vue.js Pack 2019
+- File Icons
