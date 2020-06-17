@@ -4,5 +4,8 @@
   "htmltagwrap.tag": "div",
   "git.enableSmartCommit": true,
   "git.confirmSync": false,
-  "editor.formatOnSave": true
+  "editor.formatOnSave": true,
+  "editor.fontFamily": "Fira Code",
+  "editor.fontLigatures": true,
+  "editor.fontWeight": "300"
 }
